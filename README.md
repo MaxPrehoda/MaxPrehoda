@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⚡ I’m currently working on Tycho, a sneaker botting toolbox
+### I’m currently working on Tycho, a sneaker botting toolbox ⚡
 
 <!--
 **MaxPrehoda/MaxPrehoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
