@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am a student majoring in CS at OSU 🌱
+### Student majoring in CS at OSU 🌱
 ### My current project is Tycho, a sneaker botting toolbox ⚡
 ### Lets collaborate! Send me an email or dm on twitter 📫
 
