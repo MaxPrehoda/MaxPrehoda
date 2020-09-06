@@ -1,5 +1,6 @@
 ### Hi there 👋
-### Student majoring in CS at OSU 🌱
+### I'm passionate about Python, Javascript, and everything UI/UX 🌱
+### Student majoring in CS at OSU 👨‍🎓
 ### My current project is Tycho, a sneaker botting toolbox ⚡
 ### Lets collaborate! Send me an email or dm on twitter 📫
 
