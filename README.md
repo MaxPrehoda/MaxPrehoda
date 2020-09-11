@@ -1,9 +1,10 @@
+![](https://i.imgur.com/4M7IWwP.gif)
 ### Hi there 👋
 ### I'm passionate about Python, Javascript, and everything UI/UX 🌱
 ### Student majoring in CS at OSU 👨‍🎓
 ### My current project is Tycho, a sneaker botting toolbox ⚡
 ### Lets collaborate! Send me an email or dm on twitter 📫
-
+![](https://i.imgur.com/4M7IWwP.gif)
 <!--
 **MaxPrehoda/MaxPrehoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
