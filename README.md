@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/4M7IWwP.gif)
 ### Maxwell Prehoda | Portland, OR
-### Full time tudent majoring in CS👨‍🎓
+### Full time student majoring in CS👨‍🎓
 ### Fluent in Python, C, C++, Typescript, Javascript, and everything UI/UX 🌱
 ### Currently working on an ecosystem of products for the sneaker industry ⚡
 🐦 [Twitter](https://twitter.com/lunarisachef) <br>
