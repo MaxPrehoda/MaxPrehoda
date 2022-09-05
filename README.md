@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/4M7IWwP.gif)
-### Maxwell Prehoda | Portland, OR
-### Full time student majoring in CS👨‍🎓
-### Fluent in Python, TS, and JS
-## Lots of private repos 'round here 🕵️
+## Maxwell Prehoda | Portland, OR
+## Full time student majoring in CS👨‍🎓
+## Fluent in Python, TS, and JS
+### Lots of private repos 'round here 🕵️
 🤹 [Portfolio](https://maxprehoda.info) <br>
 🐦 [Twitter](https://twitter.com/lunarisachef) <br>
 📫 [Email](mailto:maxprehoda@gmail.com) <br>
