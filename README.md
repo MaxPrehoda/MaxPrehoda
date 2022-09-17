@@ -2,7 +2,6 @@
 ## Maxwell Prehoda | Portland, OR
 ### Full time student majoring in CS👨‍🎓
 ### Open-source contributor 🌎
-### Fluent in Python, TS, and JS
 🤹 [Portfolio](https://maxprehoda.info) <br>
 🐦 [Twitter](https://twitter.com/lunarisachef) <br>
 📫 [Email](mailto:maxprehoda@gmail.com) <br>
