@@ -4,7 +4,6 @@
 ### Open-source contributor 🌎
 ### Full-Stack 🤹
 🧑 [Portfolio](https://maxprehoda.info) <br>
-🐦 [Twitter](https://twitter.com/lunarisachef) <br>
 📫 [Email](mailto:maxprehoda@gmail.com) <br>
 
 <!--
