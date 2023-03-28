@@ -1,4 +1,3 @@
-![](https://i.imgur.com/4M7IWwP.gif)
 ## Maxwell Prehoda | Portland, OR
 ### Full time student majoring in CS👨‍🎓
 ### Open-source 🌎
