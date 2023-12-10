@@ -1,5 +1,5 @@
 ## Maxwell Prehoda | Portland, OR
-### Full time @ Exalt
+### Wokring @ Exalt
 ### Open-source 🌎
 ### Full-Stack 🤹
 🧑 [Portfolio](https://maxprehoda.info) <br>
