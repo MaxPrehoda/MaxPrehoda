@@ -1,5 +1,5 @@
 ## Maxwell Prehoda | Portland, OR
-### Wokring @ Exalt
+### Wokring @ Defy
 ### Open-source 🌎
 ### Full-Stack 🤹
 🧑 [Portfolio](https://maxprehoda.info) <br>
