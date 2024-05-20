@@ -1,5 +1,8 @@
 ## Maxwell Prehoda | Portland, OR
-### Wokring @ Defy
+### Working on...
+### [Defy](https://www.learn-defy.com/)
+### [AI CSS Animations](https://www.aicssanimations.com/)
+### [Clipr](https://clipr.pro/)
 ### Open-source 🌎
 ### Full-Stack 🤹
 🧑 [Portfolio](https://maxprehoda.info) <br>
