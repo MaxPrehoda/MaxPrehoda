@@ -1,6 +1,6 @@
 ## Maxwell Prehoda | Portland, OR
 ### Working on...
-### [Defy](https://www.learn-defy.com/)
+### [Cloudticity](https://www.cloudticity.com/home)
 ### [AI CSS Animations](https://www.aicssanimations.com/)
 ### [Clipr](https://clipr.pro/)
 ### Open-source 🌎
