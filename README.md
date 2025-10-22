@@ -1,7 +1,12 @@
 ## Maxwell Prehoda | Full-stack developer based in Eugene, OR
-### I'm working on...
-### [AI CSS Animations](https://www.aicssanimations.com/)
-### If I am not programming I am probably traveling, playing golf, or both
+
+### Things I am working on...
+## [AI CSS Animations](https://www.aicssanimations.com/)
+## [Refactory](https://refactory-swart.vercel.app/)
+## [Spore AI](https://getspore.com/)
+
+### If I am not programming I am probably in a body of water.
+
 🧑 [Portfolio](https://maxprehoda.info) <br>
 📫 [Email](mailto:maxprehoda@gmail.com) <br>
 
