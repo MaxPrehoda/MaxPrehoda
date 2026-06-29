@@ -1,7 +1,7 @@
 ## Maxwell Prehoda | Full-stack developer based in Eugene, OR
 
 ### Things I am working on...
-## [Video Game](https://www.playmushies.com/)
+## [Video Game - Mushies!](https://www.playmushies.com/)
 
 🧑 [Portfolio](https://maxprehoda.info) <br>
 📫 [Email](mailto:maxprehoda@gmail.com) <br>
